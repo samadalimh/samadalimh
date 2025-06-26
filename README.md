@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there 👋, I'm Samad Ali Hospetkhazi</h1>
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1522252234503-e356532cafd5?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZGV2ZWxvcGVyfGVufDB8fDB8fHww" alt="Samad Ali Hospetkhazi Banner" style="width:100%; max-width:900px;" />
+  <img src="https://images.unsplash.com/photo-1522252234503-e356532cafd5?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZGV2ZWxvcGVyfGVufDB8fDB8fHww" alt="Samad Ali Hospetkhazi Banner" style="width:80%; max-width:600px;" />
 </p>
 
 

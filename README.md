@@ -20,10 +20,10 @@
 
 ### 🧠 Skills & Tools
 
-- **Languages:** Python, JavaScript, Java, C++, SQL  
+- **Languages:** Python, JavaScript, Java, C++
 - **Frontend:** React.js, Tailwind CSS, HTML5, CSS3  
 - **Backend:** Node.js, Django, Express.js  
-- **Database:** MongoDB, MySQL  
+- **Database:** MongoDB, MySQL ,SQL
 - **AI/ML:** TensorFlow, OpenCV, Keras, Scikit-learn  
 - **Tools:** Git, GitHub, VS Code, PyCharm, Power BI  
 

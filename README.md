@@ -3,9 +3,11 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Samad Ali Hospetkhazi</h1>
-<h3 align="center">🚀 Full Stack Developer | 🧠 AI Enthusiast | 🎓 CSE Undergrad</h3>
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1522252234503-e356532cafd5?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZGV2ZWxvcGVyfGVufDB8fDB8fHww" alt="Samad Ali Hospetkhazi Banner" style="width:100%; max-width:900px;" />
+</p>
 
----
+
 
 ### 💬 About Me
 
@@ -18,12 +20,12 @@
 
 ### 🧠 Skills & Tools
 
-- **Languages:** Python, JavaScript, Java, C++, SQL
-- **Frontend:** React.js, Tailwind CSS, HTML5, CSS3
-- **Backend:** Node.js, Django, Express.js
-- **Database:** MongoDB, MySQL
-- **AI/ML:** TensorFlow, OpenCV, Keras, Scikit-learn
-- **Tools:** Git, GitHub, VS Code, PyCharm, Power BI
+- **Languages:** Python, JavaScript, Java, C++, SQL  
+- **Frontend:** React.js, Tailwind CSS, HTML5, CSS3  
+- **Backend:** Node.js, Django, Express.js  
+- **Database:** MongoDB, MySQL  
+- **AI/ML:** TensorFlow, OpenCV, Keras, Scikit-learn  
+- **Tools:** Git, GitHub, VS Code, PyCharm, Power BI  
 
 ---
 
@@ -60,5 +62,5 @@ Monitors project updates for construction companies with secure login and image 
 
 ---
 
-> “Strive for progress, not perfection.”
+> *“Strive for progress, not perfection.”*
 
